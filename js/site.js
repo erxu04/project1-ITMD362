@@ -5,7 +5,10 @@ jQuery(function($) {
 });
 
 function init(){
-  
+  var tcButton = document.getElementById("link");
+  function myEvent(){
+    
+  }
 }
 
 window.addEventListener('load', init)
