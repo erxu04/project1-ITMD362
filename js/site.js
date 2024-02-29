@@ -6,9 +6,12 @@ jQuery(function($) {
 
 function init(){
   var tcButton = document.getElementById("link");
+
   function myEvent(){
-    alert("Surpise! There are no Terms & Conditions!");
+    alert("Surprise! There are no Terms & Conditions!");
   }
+
+  tcButton.addEventListener("click", myEvent);
 }
 
 window.addEventListener('load', init)
