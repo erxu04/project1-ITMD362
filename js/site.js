@@ -7,7 +7,7 @@ jQuery(function($) {
 function init(){
   var tcButton = document.getElementById("link");
   function myEvent(){
-    
+    alert("Surpise! There are no Terms & Conditions!");
   }
 }
 
