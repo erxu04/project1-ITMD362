@@ -58,6 +58,10 @@ p {
   color:#d28f65;
 }
 
+#link:hover {
+  text-decoration: underline;
+}
+
 #input-age-verification{
   padding-top: 0.3em;
   font-size: 15px;
