@@ -133,6 +133,10 @@ p {
     background-size: 100%;
   }
 
+  h1{
+    font-size: 3em;
+  }
+
   #input-name {
     text-align: left;
     padding: 0.5em 1em 0.5em 1em;
