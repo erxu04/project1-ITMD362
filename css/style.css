@@ -118,6 +118,10 @@ p {
   #input-email {
     font-size: 1.2em;
   }
+
+  #input-name input {
+    margin-top: 0.3em;
+  }
   
 }
 
