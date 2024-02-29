@@ -55,10 +55,9 @@ p {
 }
 
 #input-age-verification{
-  text-align: left;
+  /* text-align: left; */
   padding-top: 0.3em;
-  padding-left: 1.2em;
-  font-size: smaller;
+  font-size: 15px;
 }
 
 #input-submit {
