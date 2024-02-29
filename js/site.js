@@ -3,3 +3,9 @@ jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
 });
+
+function init(){
+  
+}
+
+window.addEventListener('load', init)
