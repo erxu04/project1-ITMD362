@@ -54,10 +54,9 @@ p {
   margin-left: 0.3em;
 }
 
-/* #link {
+#link {
   color:#d28f65;
-  font-style: italic;
-} */
+}
 
 #input-age-verification{
   padding-top: 0.3em;
