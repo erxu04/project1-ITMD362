@@ -1,5 +1,5 @@
 body {
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', 'Arial';
   font-size: 16px;
   text-align: center;
   background-image: url('../images/background.jpg');
@@ -32,7 +32,7 @@ p {
 }
 
 #input-name input{
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', 'Arial';
   padding: 0.5em;
   border: 0px;
   border-radius: 0.3em;
@@ -46,7 +46,7 @@ p {
 }
 
 #input-email input{
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', 'Arial';
   padding: 0.5em;
   border: 0px;
   border-radius: 0.3em;
@@ -79,7 +79,7 @@ p {
   font-size: 1.2em;
   color: white;
   padding: 1em;
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', 'Arial';
   background-color:#455958;
   transition: background-color 0.25s;
 } 
